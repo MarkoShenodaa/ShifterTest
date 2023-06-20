@@ -1,0 +1,12 @@
+D:\NewWork\DeskTop\ConsoleApp1\Encryption.CaesarCipher\bin\Debug\net6.0\Encryption.CaesarCipher.deps.json
+D:\NewWork\DeskTop\ConsoleApp1\Encryption.CaesarCipher\bin\Debug\net6.0\Encryption.CaesarCipher.dll
+D:\NewWork\DeskTop\ConsoleApp1\Encryption.CaesarCipher\bin\Debug\net6.0\Encryption.CaesarCipher.pdb
+D:\NewWork\DeskTop\ConsoleApp1\Encryption.CaesarCipher\obj\Debug\net6.0\Encryption.CaesarCipher.csproj.AssemblyReference.cache
+D:\NewWork\DeskTop\ConsoleApp1\Encryption.CaesarCipher\obj\Debug\net6.0\Encryption.CaesarCipher.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewWork\DeskTop\ConsoleApp1\Encryption.CaesarCipher\obj\Debug\net6.0\Encryption.CaesarCipher.AssemblyInfoInputs.cache
+D:\NewWork\DeskTop\ConsoleApp1\Encryption.CaesarCipher\obj\Debug\net6.0\Encryption.CaesarCipher.AssemblyInfo.cs
+D:\NewWork\DeskTop\ConsoleApp1\Encryption.CaesarCipher\obj\Debug\net6.0\Encryption.CaesarCipher.csproj.CoreCompileInputs.cache
+D:\NewWork\DeskTop\ConsoleApp1\Encryption.CaesarCipher\obj\Debug\net6.0\Encryption.CaesarCipher.dll
+D:\NewWork\DeskTop\ConsoleApp1\Encryption.CaesarCipher\obj\Debug\net6.0\refint\Encryption.CaesarCipher.dll
+D:\NewWork\DeskTop\ConsoleApp1\Encryption.CaesarCipher\obj\Debug\net6.0\Encryption.CaesarCipher.pdb
+D:\NewWork\DeskTop\ConsoleApp1\Encryption.CaesarCipher\obj\Debug\net6.0\ref\Encryption.CaesarCipher.dll
